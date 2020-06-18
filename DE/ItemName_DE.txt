@@ -1346,4 +1346,5 @@ ItemName_DE = {
     ItemName_farming.TomatoSeed = "Tomaten-Saatgut",
     ItemName_farming.WateredCan = "Gieﬂkanne (leer)",
     ItemName_farming.WateredCanFull = "Gieﬂkanne mit Wasser",
+    ItemName_Base.Rubberducky2 = "Quietscheente",
 }
